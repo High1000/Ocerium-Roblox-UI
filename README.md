@@ -4,7 +4,8 @@
 first we have to add a loadstring for library usage
 
 ```lua
-local Library = loadstring(game:HttpGet("[https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua](https://github.com/High1000/Ocerium-Roblox-UI/blob/main/Ocerium%20Special%20ui)"))()
+local Library = loadstring(game:HttpGet("https://github.com/High1000/Ocerium-Roblox-UI/blob/main/Ocerium%20Special%20ui
+"))()
 ```
 
 
